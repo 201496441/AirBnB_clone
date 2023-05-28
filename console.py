@@ -2,7 +2,7 @@
 """This module defines the entry point of the command interpreter.
 
 It defines one class, `HBNBCommand()`, which sub-classes the `cmd.Cmd` class.
-This module defines abstractions that allows us to manipulate a powerful
+This module defines abstractions that allows us to manipulate A powerful
 storage system (FileStorage / DB). This abstraction will also allow us to
 change the type of storage easily without updating all of our codebase.
 
